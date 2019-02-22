@@ -47,8 +47,7 @@ Dans une liste déroulante, on peut choisir le type de mesures à afficher. Le r
 En ce qui concerne les données relatives au vent, on affiche la valeur de la vitesse moyenne du vent accompagnée d'une flèche 3D. Cette flèche a pour direction la même direction du vent qu'on a récupéré de l'API.
 
 ![enter image description here](https://raw.githubusercontent.com/b-yasmine/itowns-meteo/master/screenshots/wind.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MqFS_aytzw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/MqFS_aytzw0" frameborder="0" allowfullscreen></iframe>
 
 ## Auteurs
 BOUDILI Yassmine, GHADHAB Hiba et THAALBI Sinda.
